@@ -1,0 +1,25 @@
+.img-logo{
+    width: 120px;
+}
+
+.name{
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px #ccc;
+}
+
+.img-mainPage{
+    filter: drop-shadow(1px 1px 10px white);
+}
+
+.h-first{
+    opacity: 50%;
+}
+
+/* Add styles for the back-to-top button */
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    z-index: 1;
+  }
