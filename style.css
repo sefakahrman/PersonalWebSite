@@ -1,16 +1,20 @@
+/* Logo */
 .img-logo{
     width: 120px;
 }
 
+/* Aboutme Name Section */
 .name{
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 1px #ccc;
 }
 
+/* AboutMe Image */
 .img-mainPage{
     filter: drop-shadow(1px 1px 10px white);
 }
 
+/* AboutMe "Developer" text opacity */
 .h-first{
     opacity: 50%;
 }
